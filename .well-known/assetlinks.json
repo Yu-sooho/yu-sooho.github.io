@@ -3,7 +3,7 @@
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
-        "package_name": "com.naivy.hreum",
+        "package_name": "com.hreum",
         "sha256_cert_fingerprints": ["82:AB:CE:7C:2E:A5:7E:02:41:E3:04:DB:82:07:26:7C:C1:97:08:10:29:B4:EF:34:0A:86:35:0E:A0:3C:BB:22","5B:AA:B8:7B:74:98:80:4F:01:4A:A8:43:50:B4:8D:83:50:0D:09:93:0F:ED:05:79:9C:BA:02:1A:48:5A:A0:6C"]
       }
     }
